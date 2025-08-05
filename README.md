@@ -1,6 +1,6 @@
 # Multivariate Air Quality Forecasting Using Deep Learning Models 🌫️
 
-> 📝 This repository contains the code, data preprocessing, model training scripts, evaluation metrics, and visualizations for my B.Tech project:  
+> 📝 This repository contains the code, data preprocessing, model training scripts, evaluation metrics, and visualizations for my 'Essentials of AI and Machine Learning' course project during my B.Tech. in NIT, Calicut :  
 > **"Multivariate Air Quality Forecasting Using Deep Learning Models: A Case Study on Delhi Pollution"**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
