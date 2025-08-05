@@ -3,7 +3,7 @@
 > 📝 This repository contains the code, data preprocessing, model training scripts, evaluation metrics, and visualizations for my B.Tech project:  
 > **"Multivariate Air Quality Forecasting Using Deep Learning Models: A Case Study on Delhi Pollution"**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
 
 ---
 
@@ -70,6 +70,8 @@ Air pollution poses severe health, environmental, and economic challenges in urb
 | **MAE** | 8.92 µg/m³ |
 | **RMSE** | 14.14 µg/m³ |
 | **R²** | 0.9746 |
+
+<img width="1188" height="490" alt="image" src="https://github.com/user-attachments/assets/e7651eae-819e-4b36-ab69-521750fe6312" />
 
 The LSTM model generalized well to unseen data and captured the key pollution patterns effectively.
 
